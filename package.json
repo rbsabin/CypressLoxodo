@@ -1,0 +1,23 @@
+{
+  "name": "cypressloxodo",
+  "version": "1.0.0",
+  "description": "Loxodo automation using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbsabin/CypressLoxodo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbsabin/CypressLoxodo/issues"
+  },
+  "homepage": "https://github.com/rbsabin/CypressLoxodo#readme",
+  "devDependencies": {
+    "cypress": "^4.11.0"
+  }
+}

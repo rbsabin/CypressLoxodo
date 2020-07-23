@@ -1,0 +1,9 @@
+{
+    "baseUrl": "http://loxodo.tech",
+    "include": [
+      "./src/integration/*.ts",
+      "./src/support/*.ts",
+      "./src/node_modules/cypress"
+    ]
+  }
+  

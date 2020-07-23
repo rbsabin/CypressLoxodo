@@ -1,0 +1,44 @@
+{
+  "validUsers": [
+    {
+      "tenant": "seva-development",
+      "username": "automation@loxodo.com",
+      "password": "password"
+    },
+    {
+      "tenant": "seva-development",
+      "username": "automation1@loxodo.com",
+      "password": "password"
+    },
+    {
+      "tenant": "seva-development",
+      "username": "automation2@loxodo.com",
+      "password": "password"
+    },
+    {
+      "tenant": "seva-development",
+      "username": "automation3@loxodo.com",
+      "password": "password"
+    },
+    {
+      "tenant": "seva-development",
+      "username": "automation4@loxodo.com",
+      "password": "password"
+    },
+    {
+      "tenant": "seva-development",
+      "username": "automation5@loxodo.com",
+      "password": "password"
+    },
+    {
+      "tenant": "seva-development",
+      "username": "automation6@loxodo.com",
+      "password": "password"
+    }
+   
+  ],
+  "validAdmin": {
+    "username": "automationadmin@sevadev.com",
+    "password": "password"
+  }
+}
