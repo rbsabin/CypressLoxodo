@@ -1,0 +1,7 @@
+version: '3.3'
+services:
+  cypress:
+    image: "mtlynch/cypress:latest"    
+    working_dir: /Loxodo
+    volumes:
+      - ./:/Loxodo
